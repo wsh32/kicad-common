@@ -1,0 +1,207 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C_0603
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_0805
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_100nF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_100pF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_100uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_10nF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_10uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_1206
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_1uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_2.2uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_22uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_30pF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_330nF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_33uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_4.7uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP C_47uF
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP LED_0805
+D Light emitting diode
+K LED diode light-emitting-diode
+$ENDCMP
+#
+$CMP LED_BLUE
+D Light emitting diode
+K LED diode light-emitting-diode
+$ENDCMP
+#
+$CMP LED_GRN
+D Light emitting diode
+K LED diode light-emitting-diode
+$ENDCMP
+#
+$CMP LED_RED
+D Light emitting diode
+K LED diode light-emitting-diode
+$ENDCMP
+#
+$CMP LED_WHT
+D Light emitting diode
+K LED diode light-emitting-diode
+$ENDCMP
+#
+$CMP LED_YLW
+D Light emitting diode
+K LED diode light-emitting-diode
+$ENDCMP
+#
+$CMP MIC2545A
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic2545a.pdf
+$ENDCMP
+#
+$CMP R_0
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_0603
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_0805
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_100
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_100K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_10K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_120
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_120K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_1K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_1M
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_2.2K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_200
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_2512
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_4.7K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_4.99K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_499
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_499K
+D Resistor
+K resistor
+$ENDCMP
+#
+$CMP R_60.4
+D Resistor
+K resistor
+$ENDCMP
+#
+#End Doc Library
