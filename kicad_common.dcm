@@ -114,6 +114,10 @@ $CMP MIC2545A
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic2545a.pdf
 $ENDCMP
 #
+$CMP OPB360N51
+F https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Datasheets/OPB355-360to390-860to890.pdf
+$ENDCMP
+#
 $CMP R_0
 D Resistor
 K resistor
